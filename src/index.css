@@ -1,0 +1,16 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Sniglet", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    background: linear-gradient(to right, #e79e00 , #ff5500);
+    color: #333;
+    line-height: 1.8;
+}

@@ -1,0 +1,40 @@
+.container-tempo{
+    background-color: rgb(255, 255, 255, 0.8);
+    border-radius: 10px;
+
+    h3 {
+        font-size: 1.5rem;
+        margin-bottom: 25px;
+    }
+
+}
+
+
+.lista-tempo{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    
+}
+
+.itens-tempo{
+
+    text-align: center;
+    background-color:rgba(255, 187, 0, 0.853) ;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 2px 2px 10px rgba(244, 102, 0, 0.853);
+    transition: all .2s;
+}
+
+.itens-tempo:hover{
+    transform: scale(1.1);
+}
+
+.dias{
+    text-transform: capitalize;
+    font-size: 1.1;
+}
+

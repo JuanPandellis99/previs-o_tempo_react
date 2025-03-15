@@ -1,0 +1,40 @@
+.container-tempo{
+    background-color: rgb(255, 255, 255, 0.8);
+    padding: 20px;
+    margin: 20px 0;
+}
+
+
+h2{
+    font-size: 2.0rem;
+}
+
+.info-tempo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.temp{
+ font-weight: bold;
+ font-size: 2.5rem;
+}
+
+.info-tempo img{
+    width: 50px;
+}
+
+
+.descrição-tempo{
+    text-transform: capitalize;
+    font-size: 1.3rem;
+    margin-bottom: 10px;
+}
+
+.mais-info{
+    display: flex;
+    justify-content: space-evenly;
+
+}
